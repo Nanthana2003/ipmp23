@@ -11,7 +11,6 @@ struct Node {
 };
 
 
-//Function to find the data of nth node from the end of a linked list.
 int getNthFromLast(Node *head, int n)
 {
        Node * h;
